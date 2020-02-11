@@ -30,10 +30,3 @@ Users are able to join groups and message other users in real-time.
     <img src="http://git-assets.react-starter-kit.com/react_chat_app.png">  
 </p>
 
-## Software
-
-Before proceeding, please ensure you have the following software installed on your computer.
-
-* Node
-* Yarn (optional but recommended)
-* Git command line tools
